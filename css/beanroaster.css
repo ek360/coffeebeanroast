@@ -40,6 +40,9 @@ footer {
     transform: translate(-50%, -50%) 
 }
 
+#w80{
+    width: 80%
+}
 #tdldimglabel{
     width: 15%
 }
@@ -48,10 +51,18 @@ footer {
     width: 61%
 }
 
+#comments{
+    text-align: center
+}
 #tdpointermode{
     width: 24%;
 	text-align: center
 }
+#tdpointermod{
+    width: 20%;
+	align: left
+}
+
 
 #uploadImage{
     float:left
